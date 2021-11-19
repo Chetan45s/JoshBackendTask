@@ -1,8 +1,8 @@
 ## Quick Start
-Installation Steps if you want to try it out
+Installation Steps for linux
 ```bash
-git clone https://github.com/ChristianKreuzberger/django-rest-imageupload-example.git
-cd django-rest-imageupload-example
+git clone https://github.com/Chetan45s/JoshBackendTask.git
+cd JoshBackendTask
 
 virtualenv -p python3 venv                  # To create a virtual env
 source venv/bin/activate                    # activate it
