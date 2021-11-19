@@ -1,0 +1,157 @@
+2021-11-19 09:46:02,347 api.cron     INFO     API Call is initiated
+2021-11-19 09:46:02,349 googleapiclient.discovery_cache INFO     file_cache is only supported with oauth2client<4.0.0
+2021-11-19 09:46:02,352 googleapiclient.discovery DEBUG    URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=cricket&key=AIzaSyARvQQ64xbZHzhi-lz7i1a1CP8mR7M-KF4&alt=json
+2021-11-19 09:46:03,203 root         INFO     API Executed
+2021-11-19 09:46:04,495 api.cron     INFO     API Call is completed
+2021-11-19 09:46:28,752 django.utils.autoreload INFO     /home/chetan45s/Documents/backendTaskFetchYoutubeApi/backendTaskFetchYoutubeApi/settings.py changed, reloading.
+2021-11-19 09:46:29,031 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-19 09:48:01,499 api.cron     INFO     API Call is initiated
+2021-11-19 09:48:01,501 googleapiclient.discovery_cache INFO     file_cache is only supported with oauth2client<4.0.0
+2021-11-19 09:48:01,504 googleapiclient.discovery DEBUG    URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=cricket&key=AIzaSyARvQQ64xbZHzhi-lz7i1a1CP8mR7M-KF4&alt=json
+2021-11-19 09:48:02,971 root         INFO     API Executed
+2021-11-19 09:48:04,325 api.cron     INFO     API Call is completed
+2021-11-19 09:49:31,674 django.utils.autoreload INFO     /home/chetan45s/Documents/backendTaskFetchYoutubeApi/backendTaskFetchYoutubeApi/settings.py changed, reloading.
+2021-11-19 09:49:31,995 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-19 09:50:01,842 api.cron     INFO     API Call is initiated
+2021-11-19 09:50:01,844 googleapiclient.discovery_cache INFO     file_cache is only supported with oauth2client<4.0.0
+2021-11-19 09:50:01,847 googleapiclient.discovery DEBUG    URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=cricket&key=AIzaSyARvQQ64xbZHzhi-lz7i1a1CP8mR7M-KF4&alt=json
+2021-11-19 09:50:01,983 django.utils.autoreload INFO     /home/chetan45s/Documents/backendTaskFetchYoutubeApi/backendTaskFetchYoutubeApi/urls.py changed, reloading.
+2021-11-19 09:50:02,059 api.cron     INFO     Cache Cleared
+2021-11-19 09:50:02,378 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-19 09:50:06,598 root         INFO     API Executed
+2021-11-19 09:50:07,913 api.cron     INFO     API Call is completed
+2021-11-19 09:50:35,592 django.utils.autoreload INFO     /home/chetan45s/Documents/backendTaskFetchYoutubeApi/api/urls.py changed, reloading.
+2021-11-19 09:50:35,904 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-19 09:52:01,425 api.cron     INFO     API Call is initiated
+2021-11-19 09:52:01,427 googleapiclient.discovery_cache INFO     file_cache is only supported with oauth2client<4.0.0
+2021-11-19 09:52:01,430 googleapiclient.discovery DEBUG    URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=cricket&key=AIzaSyARvQQ64xbZHzhi-lz7i1a1CP8mR7M-KF4&alt=json
+2021-11-19 09:52:08,366 root         INFO     API Executed
+2021-11-19 09:52:09,894 api.cron     INFO     API Call is completed
+2021-11-19 09:54:01,463 api.cron     INFO     API Call is initiated
+2021-11-19 09:54:01,466 googleapiclient.discovery_cache INFO     file_cache is only supported with oauth2client<4.0.0
+2021-11-19 09:54:01,469 googleapiclient.discovery DEBUG    URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=cricket&key=AIzaSyARvQQ64xbZHzhi-lz7i1a1CP8mR7M-KF4&alt=json
+2021-11-19 09:54:06,323 root         INFO     API Executed
+2021-11-19 09:54:07,888 api.cron     INFO     API Call is completed
+2021-11-19 09:55:02,505 api.cron     INFO     Cache Cleared
+2021-11-19 09:56:02,017 api.cron     INFO     API Call is initiated
+2021-11-19 09:56:02,019 googleapiclient.discovery_cache INFO     file_cache is only supported with oauth2client<4.0.0
+2021-11-19 09:56:02,022 googleapiclient.discovery DEBUG    URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=cricket&key=AIzaSyARvQQ64xbZHzhi-lz7i1a1CP8mR7M-KF4&alt=json
+2021-11-19 09:56:10,345 root         INFO     API Executed
+2021-11-19 09:56:11,570 api.cron     INFO     API Call is completed
+2021-11-19 09:57:01,382 django.utils.autoreload INFO     /home/chetan45s/Documents/backendTaskFetchYoutubeApi/api/views.py changed, reloading.
+2021-11-19 09:57:01,768 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-19 09:58:02,096 api.cron     INFO     API Call is initiated
+2021-11-19 09:58:02,110 googleapiclient.discovery_cache INFO     file_cache is only supported with oauth2client<4.0.0
+2021-11-19 09:58:02,114 googleapiclient.discovery DEBUG    URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=cricket&key=AIzaSyARvQQ64xbZHzhi-lz7i1a1CP8mR7M-KF4&alt=json
+2021-11-19 09:58:04,062 root         INFO     API Executed
+2021-11-19 09:58:05,537 api.cron     INFO     API Call is completed
+2021-11-19 10:00:00,201 django.utils.autoreload INFO     /home/chetan45s/Documents/backendTaskFetchYoutubeApi/api/views.py changed, reloading.
+2021-11-19 10:00:00,464 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-11-19 10:00:02,109 api.cron     INFO     API Call is initiated
+2021-11-19 10:00:02,111 googleapiclient.discovery_cache INFO     file_cache is only supported with oauth2client<4.0.0
+2021-11-19 10:00:02,115 googleapiclient.discovery DEBUG    URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=cricket&key=AIzaSyARvQQ64xbZHzhi-lz7i1a1CP8mR7M-KF4&alt=json
+2021-11-19 10:00:02,173 api.cron     INFO     Cache Cleared
+2021-11-19 10:00:03,091 root         INFO     API Executed
+2021-11-19 10:00:04,364 api.cron     INFO     API Call is completed
+2021-11-19 10:02:01,948 api.cron     INFO     API Call is initiated
+2021-11-19 10:02:01,951 googleapiclient.discovery_cache INFO     file_cache is only supported with oauth2client<4.0.0
+2021-11-19 10:02:01,955 googleapiclient.discovery DEBUG    URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=cricket&key=AIzaSyARvQQ64xbZHzhi-lz7i1a1CP8mR7M-KF4&alt=json
+2021-11-19 10:02:05,739 root         INFO     API Executed
+2021-11-19 10:02:07,389 api.cron     INFO     API Call is completed
+2021-11-19 10:04:01,623 api.cron     INFO     API Call is initiated
+2021-11-19 10:04:01,624 googleapiclient.discovery_cache INFO     file_cache is only supported with oauth2client<4.0.0
+2021-11-19 10:04:01,628 googleapiclient.discovery DEBUG    URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=cricket&key=AIzaSyARvQQ64xbZHzhi-lz7i1a1CP8mR7M-KF4&alt=json
+2021-11-19 10:04:07,945 root         INFO     API Executed
+2021-11-19 10:04:09,890 api.cron     INFO     API Call is completed
+2021-11-19 10:05:02,385 api.cron     INFO     Cache Cleared
+2021-11-19 10:06:01,814 api.cron     INFO     API Call is initiated
+2021-11-19 10:06:01,832 googleapiclient.discovery_cache INFO     file_cache is only supported with oauth2client<4.0.0
+2021-11-19 10:06:01,835 googleapiclient.discovery DEBUG    URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=cricket&key=AIzaSyARvQQ64xbZHzhi-lz7i1a1CP8mR7M-KF4&alt=json
+2021-11-19 10:06:05,165 root         INFO     API Executed
+2021-11-19 10:06:06,641 api.cron     INFO     API Call is completed
+2021-11-19 10:08:02,171 api.cron     INFO     API Call is initiated
+2021-11-19 10:08:02,172 googleapiclient.discovery_cache INFO     file_cache is only supported with oauth2client<4.0.0
+2021-11-19 10:08:02,176 googleapiclient.discovery DEBUG    URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=cricket&key=AIzaSyARvQQ64xbZHzhi-lz7i1a1CP8mR7M-KF4&alt=json
+2021-11-19 10:08:02,901 root         INFO     API Executed
+2021-11-19 10:08:04,468 api.cron     INFO     API Call is completed
+2021-11-19 10:10:02,028 api.cron     INFO     API Call is initiated
+2021-11-19 10:10:02,032 googleapiclient.discovery_cache INFO     file_cache is only supported with oauth2client<4.0.0
+2021-11-19 10:10:02,036 googleapiclient.discovery DEBUG    URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=cricket&key=AIzaSyARvQQ64xbZHzhi-lz7i1a1CP8mR7M-KF4&alt=json
+2021-11-19 10:10:02,110 api.cron     INFO     Cache Cleared
+2021-11-19 10:10:02,716 root         INFO     API Executed
+2021-11-19 10:10:04,377 api.cron     INFO     API Call is completed
+2021-11-19 10:12:01,855 api.cron     INFO     API Call is initiated
+2021-11-19 10:12:01,857 googleapiclient.discovery_cache INFO     file_cache is only supported with oauth2client<4.0.0
+2021-11-19 10:12:01,861 googleapiclient.discovery DEBUG    URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=cricket&key=AIzaSyARvQQ64xbZHzhi-lz7i1a1CP8mR7M-KF4&alt=json
+2021-11-19 10:12:02,764 root         INFO     API Executed
+2021-11-19 10:12:04,452 api.cron     INFO     API Call is completed
+2021-11-19 10:14:02,038 api.cron     INFO     API Call is initiated
+2021-11-19 10:14:02,040 googleapiclient.discovery_cache INFO     file_cache is only supported with oauth2client<4.0.0
+2021-11-19 10:14:02,043 googleapiclient.discovery DEBUG    URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=cricket&key=AIzaSyARvQQ64xbZHzhi-lz7i1a1CP8mR7M-KF4&alt=json
+2021-11-19 10:14:05,169 root         INFO     API Executed
+2021-11-19 10:14:06,760 api.cron     INFO     API Call is completed
+2021-11-19 10:15:02,300 api.cron     INFO     Cache Cleared
+2021-11-19 10:16:01,802 api.cron     INFO     API Call is initiated
+2021-11-19 10:16:01,804 googleapiclient.discovery_cache INFO     file_cache is only supported with oauth2client<4.0.0
+2021-11-19 10:16:01,807 googleapiclient.discovery DEBUG    URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=cricket&key=AIzaSyARvQQ64xbZHzhi-lz7i1a1CP8mR7M-KF4&alt=json
+2021-11-19 10:16:03,467 root         INFO     API Executed
+2021-11-19 10:16:04,813 api.cron     INFO     API Call is completed
+2021-11-19 10:18:02,387 api.cron     INFO     API Call is initiated
+2021-11-19 10:18:02,389 googleapiclient.discovery_cache INFO     file_cache is only supported with oauth2client<4.0.0
+2021-11-19 10:18:02,393 googleapiclient.discovery DEBUG    URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=cricket&key=AIzaSyARvQQ64xbZHzhi-lz7i1a1CP8mR7M-KF4&alt=json
+2021-11-19 10:18:07,851 root         INFO     API Executed
+2021-11-19 10:18:10,173 api.cron     INFO     API Call is completed
+2021-11-19 10:20:01,877 api.cron     INFO     API Call is initiated
+2021-11-19 10:20:01,891 googleapiclient.discovery_cache INFO     file_cache is only supported with oauth2client<4.0.0
+2021-11-19 10:20:01,897 googleapiclient.discovery DEBUG    URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=cricket&key=AIzaSyARvQQ64xbZHzhi-lz7i1a1CP8mR7M-KF4&alt=json
+2021-11-19 10:20:02,090 api.cron     INFO     Cache Cleared
+2021-11-19 10:20:02,689 root         INFO     API Executed
+2021-11-19 10:20:04,969 api.cron     INFO     API Call is completed
+2021-11-19 10:22:01,457 api.cron     INFO     API Call is initiated
+2021-11-19 10:22:01,459 googleapiclient.discovery_cache INFO     file_cache is only supported with oauth2client<4.0.0
+2021-11-19 10:22:01,463 googleapiclient.discovery DEBUG    URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=cricket&key=AIzaSyARvQQ64xbZHzhi-lz7i1a1CP8mR7M-KF4&alt=json
+2021-11-19 10:22:03,371 root         INFO     API Executed
+2021-11-19 10:22:04,819 api.cron     INFO     API Call is completed
+2021-11-19 10:24:02,288 api.cron     INFO     API Call is initiated
+2021-11-19 10:24:02,291 googleapiclient.discovery_cache INFO     file_cache is only supported with oauth2client<4.0.0
+2021-11-19 10:24:02,296 googleapiclient.discovery DEBUG    URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=cricket&key=AIzaSyARvQQ64xbZHzhi-lz7i1a1CP8mR7M-KF4&alt=json
+2021-11-19 10:24:04,204 root         INFO     API Executed
+2021-11-19 10:24:05,751 api.cron     INFO     API Call is completed
+2021-11-19 10:25:02,302 api.cron     INFO     Cache Cleared
+2021-11-19 10:26:01,882 api.cron     INFO     API Call is initiated
+2021-11-19 10:26:01,884 googleapiclient.discovery_cache INFO     file_cache is only supported with oauth2client<4.0.0
+2021-11-19 10:26:01,887 googleapiclient.discovery DEBUG    URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=cricket&key=AIzaSyARvQQ64xbZHzhi-lz7i1a1CP8mR7M-KF4&alt=json
+2021-11-19 10:26:03,044 root         INFO     API Executed
+2021-11-19 10:26:04,443 api.cron     INFO     API Call is completed
+2021-11-19 10:28:01,923 api.cron     INFO     API Call is initiated
+2021-11-19 10:28:01,925 googleapiclient.discovery_cache INFO     file_cache is only supported with oauth2client<4.0.0
+2021-11-19 10:28:01,928 googleapiclient.discovery DEBUG    URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=cricket&key=AIzaSyARvQQ64xbZHzhi-lz7i1a1CP8mR7M-KF4&alt=json
+2021-11-19 10:28:02,796 root         INFO     API Executed
+2021-11-19 10:28:04,294 api.cron     INFO     API Call is completed
+2021-11-19 10:30:01,779 api.cron     INFO     API Call is initiated
+2021-11-19 10:30:01,781 googleapiclient.discovery_cache INFO     file_cache is only supported with oauth2client<4.0.0
+2021-11-19 10:30:01,786 googleapiclient.discovery DEBUG    URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=cricket&key=AIzaSyARvQQ64xbZHzhi-lz7i1a1CP8mR7M-KF4&alt=json
+2021-11-19 10:30:01,862 api.cron     INFO     Cache Cleared
+2021-11-19 10:30:04,736 root         INFO     API Executed
+2021-11-19 10:30:06,035 api.cron     INFO     API Call is completed
+2021-11-19 10:32:01,483 api.cron     INFO     API Call is initiated
+2021-11-19 10:32:01,485 googleapiclient.discovery_cache INFO     file_cache is only supported with oauth2client<4.0.0
+2021-11-19 10:32:01,488 googleapiclient.discovery DEBUG    URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=cricket&key=AIzaSyARvQQ64xbZHzhi-lz7i1a1CP8mR7M-KF4&alt=json
+2021-11-19 10:32:03,436 root         INFO     API Executed
+2021-11-19 10:32:05,318 api.cron     INFO     API Call is completed
+2021-11-19 10:34:01,747 api.cron     INFO     API Call is initiated
+2021-11-19 10:34:01,749 googleapiclient.discovery_cache INFO     file_cache is only supported with oauth2client<4.0.0
+2021-11-19 10:34:01,752 googleapiclient.discovery DEBUG    URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=cricket&key=AIzaSyARvQQ64xbZHzhi-lz7i1a1CP8mR7M-KF4&alt=json
+2021-11-19 10:34:02,477 root         INFO     API Executed
+2021-11-19 10:34:03,928 api.cron     INFO     API Call is completed
+2021-11-19 10:35:01,454 api.cron     INFO     Cache Cleared
+2021-11-19 10:36:01,915 api.cron     INFO     API Call is initiated
+2021-11-19 10:36:01,917 googleapiclient.discovery_cache INFO     file_cache is only supported with oauth2client<4.0.0
+2021-11-19 10:36:01,920 googleapiclient.discovery DEBUG    URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=cricket&key=AIzaSyARvQQ64xbZHzhi-lz7i1a1CP8mR7M-KF4&alt=json
+2021-11-19 10:36:14,253 root         INFO     API Executed
+2021-11-19 10:36:15,707 api.cron     INFO     API Call is completed
+2021-11-19 10:44:06,208 api.cron     INFO     API Call is initiated
+2021-11-19 10:44:06,224 googleapiclient.discovery_cache INFO     file_cache is only supported with oauth2client<4.0.0
+2021-11-19 10:44:06,248 googleapiclient.discovery DEBUG    URL being requested: GET https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=cricket&key=AIzaSyARvQQ64xbZHzhi-lz7i1a1CP8mR7M-KF4&alt=json
+2021-11-19 10:44:07,008 root         INFO     API Executed
+2021-11-19 10:44:08,608 api.cron     INFO     API Call is completed
