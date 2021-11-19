@@ -18,5 +18,7 @@ python manage.py runserver # starts the server
 
 
 !(https://raw.githubusercontent.com/Chetan45s/JoshBackendTask/main/Screenshots/Screenshot%20from%202021-11-19%2015-33-52.png)
+
 !(https://raw.githubusercontent.com/Chetan45s/JoshBackendTask/main/Screenshots/Screenshot%20from%202021-11-19%2015-33-52.png)
+
 ![Fech API using publishAfter filter] (https://raw.githubusercontent.com/Chetan45s/JoshBackendTask/main/Screenshots/Screenshot%20from%202021-11-19%2015-34-19.png)  
