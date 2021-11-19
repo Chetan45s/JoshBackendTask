@@ -17,7 +17,7 @@ python manage.py runserver # starts the server
 ## Screenshots
 
 
-!(https://raw.githubusercontent.com/Chetan45s/JoshBackendTask/main/Screenshots/Screenshot%20from%202021-11-19%2015-33-52.png)
+![](![image](https://user-images.githubusercontent.com/55756074/142612826-88c2f95f-7969-4fcd-b6e9-82156d88f10f.png))
 
 !(https://raw.githubusercontent.com/Chetan45s/JoshBackendTask/main/Screenshots/Screenshot%20from%202021-11-19%2015-33-52.png)
 
